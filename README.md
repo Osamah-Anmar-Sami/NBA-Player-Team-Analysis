@@ -1,7 +1,7 @@
 # 🏀 NBA Player & Team Analysis
 
 # 📁 Repository Overview
-This project showcases an interactive dashboard built to explore NBA player and team performance using real data.
+This project analyzing NBA player and team performance using real data.
 
 # 🔧 Features & Excel Functions Used:
 XLOOKUP / VLOOKUP <br>
@@ -17,6 +17,6 @@ Filterable dashboard elements for easy exploration<br>
 
 # 🚀 Next Steps (Planned Enhancements):
 Migrate data to PostgreSQL and Google BigQuery<br>
-Rebuild dashboard in Power BI, Tableau, and Looker<br>
+Build dashboard in Power BI, Tableau, and Looker<br>
 Add Python scripts
 
