@@ -4,9 +4,9 @@
 This project showcases an interactive dashboard built to explore NBA player and team performance using real data.
 
 # 🔧 Features & Excel Functions Used:
-XLOOKUP / VLOOKUP
-IF, AND, OR logic
-SUMIFS, INDEX MATCH
+XLOOKUP / VLOOKUP <br>
+IF, AND, OR logic <br>
+SUMIFS, INDEX MATCH <br>
 Pivot Tables & Pivot Charts for dynamic visuals
 
 # 📊 What You’ll Find:
