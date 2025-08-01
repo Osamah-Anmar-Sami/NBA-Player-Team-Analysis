@@ -11,8 +11,7 @@ Pivot Tables & Pivot Charts for dynamic visuals
 
 # 📊 What You’ll Find:
 Player-level stats & team summaries<br>
-Visual trends across teams and seasons<br>
-Filterable dashboard elements for easy exploration<br>
+Filterable Pivot Chart for easy exploration and analysis.<br>
 
 
 # 🚀 Next Steps (Planned Enhancements):
